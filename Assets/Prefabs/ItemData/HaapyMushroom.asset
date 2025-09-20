@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cd275362dacaed40b8d00ec42e5da48, type: 3}
+  m_Name: HaapyMushroom
+  m_EditorClassIdentifier: 
+  itemName: HaapyMushroom
+  itemIcon: {fileID: 21300000, guid: b3b726454eda80b40a1b30ac1a7a0c7a, type: 3}
+  quantity: 99
+  itemType: 0
+  energy: 5
+  weight: 0
+  tiredness: -30
+  discipline: 0
+  HP: 2
+  MP: 1
+  offense: 0
+  defense: 0
+  speed: 0
+  brains: 1
+  lifeSpan: 0
+  happiness: 5
+  dropPrefab: {fileID: 4231552108775595401, guid: a2df4c342765d6c498ffa5d1f49fc9f2, type: 3}
